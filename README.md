@@ -26,7 +26,7 @@ MongoDB support matrix:
 - :x: - don't have official support
 - :no_entry: - MongoDB has reached EOL
 
-#### Variables
+##### Variables
 
 ```yaml
 # This variable is used to set source of MongoDB installation.
